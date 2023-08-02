@@ -1,1 +1,3 @@
+The pied piper had pickles. 
 This a text doc to practice merging in git.
+changes
